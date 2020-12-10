@@ -365,7 +365,7 @@ func (n *NTLMv2) GetAuthenticateMessage(s []byte) *AuthenticateMessage {
 	//
 	//fmt.Println("Payload", string(challengeMsg.Payload[:]))
 
-	os.Exit(0)
+	//os.Exit(0)
 
 	//
 	//
