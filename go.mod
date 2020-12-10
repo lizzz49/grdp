@@ -1,4 +1,4 @@
-module github.com/icodeface/grdp
+module github.com/lizzz49/grdp
 
 go 1.12
 
